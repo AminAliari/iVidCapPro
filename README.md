@@ -7,7 +7,7 @@ These capabilities are really needed nowadays and the developer doesn't update h
 
 ##Inistallation##
 
-Just use [the original plugin](http://eccentric-orbits.com/eoe/downloads/iVidCapProFull_1_6.unitypackage){:target="_blank"} and replace libiVidCapPro.a with the new one.
+Just use  <a href="http://eccentric-orbits.com/eoe/downloads/iVidCapProFull_1_6.unitypackage" target="_blank">the orginal plugin</a> and replace libiVidCapPro.a with the new one.
 
 Happy Coding!
 
